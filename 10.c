@@ -11,7 +11,8 @@ int Count_len(char *ch)
 }
 
 int main()
-{
+{ 
+
     int i, j;
     char ch[300];
     char ch_2[300];
