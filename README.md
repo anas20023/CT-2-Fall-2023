@@ -16,15 +16,14 @@
 # 12.Write a C program that will copy the elements of an array into another array.
 # 13.Write a C program that will count the sum of all elements of a 2D array.
 # 14.Write a C program to check whether a string is palindrome or not.
-# 15.Write a c program that will count the total number of alphabets and the total
-# 16.number of digits in a string.
-# 17.Input and display array elements
-# 18.Sum of all array elements
-# 19.Insert new element in array
-# 20.Search an element in array
-# 21.Find frequency of array elements
-# 22.Add two matrices
-# 23.Check if two matrices are equal
-# 24.Find length of string
-# 25.Compare two strings
-# 26.Merge two array to third array
+# 15.Write a c program that will count the total number of alphabets and the total number of digits in a string.
+# 16.Input and display array elements
+# 17.Sum of all array elements
+# 18.Insert new element in array
+# 19.Search an element in array
+# 20.Find frequency of array elements
+# 21.Add two matrices
+# 22.Check if two matrices are equal
+# 23.Find length of string
+# 24.Compare two strings
+# 25.Merge two array to third array
