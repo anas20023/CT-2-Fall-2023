@@ -29,8 +29,9 @@ int main()
     {
         cat[i] = ch[i];
     }
+    cat[i]=' ';
 
-    for (i = x, j = 0; i < y, j < y; i++, j++)
+    for (i = x+1, j = 0; i < y, j < y; i++, j++)
     {
         cat[i] = ch_2[j];
     }
