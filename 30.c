@@ -15,9 +15,10 @@ int main()
         ptr++;
     } /// Accessing the Array with Pointer ///
 
-    ptr = &arr[0];
+    ptr = arr;
     for (int i = 0; i < x; i++)
     {
-        printf("%d ", arr[i]);
+        printf("%d ", *ptr);
+        ptr++;
     }
 }
