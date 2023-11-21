@@ -26,4 +26,5 @@ int main()
     {
         fprintf(append,"%d\t",arr[i]);
     }
+    
 }
